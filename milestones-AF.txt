@@ -1,0 +1,26 @@
+Challenge 05
+Aidan Feyerherm
+Github - https://github.com/AFeyerherm224/WellNest.git
+
+Contributions:
+≈ 3.5 hours - Learning Swift syntax/watching app development tutorials
+≈ 1.5 hours - Wrote code for the UI navigation of the app
+≈ 30 minutes - Tweaked the Github/synax of files
+
+Summary:
+This challenge was a lot more difficult than I thought, and organizing 4 people's
+schedules and ideas to collaborate and create a full product was taxing.
+It was really good to get the difficulty out of the way now and figure out what works best for 
+everyone in terms of teamwork and work division. I personally had a lot of fun learning a new
+language, although it was time-consuming for a less-than-impressive result. Swift feels less
+formal and more intuitive, and I enjoy the look of the final product.
+
+Rubric:
+Functionality (15 points)
+    - Major features work correctly without major errors
+Performance (15 points)
+    - User interactions load quickly and are intuitive
+Challenging (5 points)
+    - Learnt a new language/syntax or structure to program with
+UI (5 points)
+    - Pleasing design/color scheme
