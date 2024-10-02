@@ -1,4 +1,4 @@
- Joseph DiSalvo - Milestone 
+  Joseph DiSalvo - Milestone 
 1. ) I took care of the User Input for the beginning portion of the project
 
 User Input (swift):
