@@ -1,0 +1,53 @@
+Joseph DiSalvo - Milestone 
+1. ) I took care of the User Input for the beginning portion of the project
+
+User Input (swift):
+
+import SwiftUI
+
+struct ContentView: View {
+    @State private var username: String = ""
+    @State private var password: String = ""
+
+    var body: some View {
+        Form {
+            Section(header: Text("Login Information")) {
+                TextField("Username", text: $username)
+                SecureField("Password", text: $password)
+            }
+
+            Button(action: {
+                print("Logging in with username: \(username) and password: \(password)")
+            }) {
+                Text("Login")
+                    .foregroundColor(.blue)
+            }
+        }
+    }
+}
+
+2. ) Time log 
+4 hours - Reading, watching, and learning about swift 
+1 1/2 hours - wiritng a proper user input 
+1 hour - Lab with partners 
+
+
+3. ) Rubric 
+15+ functionality 
+	- text inputs read in, buttons work properly, correct User interface 
+
+10+ user experience 
+	-users find it easy to use 
+
+10+ good computer science practices 
+	-commenting, formatting, etc 
+
+5+ go out of comfort zone and add some 'fun' additional features 
+	-fun added feature TBD; will specify fun in final reflection
+
+4) Reflection: 
+All in all everything went smoothly, but there is definitely a lot to be learned while using another coding language. I have a small amount of experience using swift from some prior practice in Codecademy; online resources are very helpful, as well, when trying to better understand concepts and syntax. It is enjoyable working with my group, and I am looking forward to the challenge and an overall finished product. 
+
+
+5) Git Hub: 
+https://github.com/AFeyerherm224/WellNest.git
