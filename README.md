@@ -3,16 +3,16 @@
 Final Project for CS302
 Aidan Feyerherm, Jeffrey Chen, Joey DiSalvo, Cristian Frutos
 
-Prerequisites:
-Install Flutter SDK: Download and install the Flutter SDK from the official website.
-Install Android Studio: Ensure you have Android Studio installed with the following components:
-Android SDK
-Android Emulator
-Command-line Tools
-Set Up PATH Variables:
-Add the Flutter SDK (flutter/bin) and Android SDK (platform-tools) to your system PATH.
-Install IDE Plugins:
-Install the Flutter and Dart plugins in Android Studio or Visual Studio Code.
+Prerequisites
+- Install Flutter SDK: Download and install the Flutter SDK from the official website.
+- Install Android Studio: Ensure you have Android Studio installed with the following components:
+Android SDK,
+ Android Emulator,
+ Command-line Tools
+- Set Up PATH Variables:
+- Add the Flutter SDK (flutter/bin) and Android SDK (platform-tools) to your system PATH.
+- Install IDE Plugins
+- Install the Flutter and Dart plugins in Android Studio or Visual Studio Code.
 Steps to Set Up and Run the App
 1. Open the Project
 Navigate to File > Open Folder in your IDE and select the folder containing your Flutter project.
